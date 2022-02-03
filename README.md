@@ -1,5 +1,5 @@
 # hotel-dataset-clean-and-summarize
-**Context**
+**Context**n/
 Have you ever wondered when the best time of year to book a hotel room is? Or the optimal length of stay in order to get the best daily rate? what if you wanted to predict whether or not a hotel was likely to receive a disproportionately high number of special request? 
 
 The hotel booking dataset can help you explore those questions!
